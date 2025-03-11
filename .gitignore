@@ -1,0 +1,12 @@
+# Ignorar o diretório venv (ambiente virtual Python)
+venv/
+
+# Ignorar o diretório contatos
+contatos.csv
+
+# Ignorar o diretório data
+data.csv
+
+# Ignorar arquivos específicos (se necessário)
+# contatos/arquivo.txt
+# data/arquivo.csv
