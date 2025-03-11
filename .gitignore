@@ -7,6 +7,8 @@ contatos.csv
 # Ignorar o diretório data
 data.csv
 
+PyWhatKit_DB.txt
+
 # Ignorar arquivos específicos (se necessário)
 # contatos/arquivo.txt
 # data/arquivo.csv
