@@ -1,4 +1,4 @@
-mensagem = """E aí, formandos da Etec Elias Miguel Junior? Contem pra gente como está sendo a jornada após a formatura!
+textoDaMensagem = """E aí, formandos da Etec Elias Miguel Junior? Contem pra gente como está sendo a jornada após a formatura!
 
 Olá, pessoal!
 
